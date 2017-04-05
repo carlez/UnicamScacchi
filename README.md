@@ -40,3 +40,6 @@ Il blocco note è l'oggetto che usiamo per trascrivere le mosse in [notazione al
 11. Lo scacco viene indicato con un + (ad esempio Axf7+)
 12. Lo scacco matto con # (ad esempio Axf7#)
 13. La notazione 1-0 si usa a fine partita per indicare la vittoria del bianco, 0-1 per indicare la vittoria del nero, ½-½ o 0,5-0,5 o anche ,5-,5per indicare una patta. Le parole "Il bianco abbandona" o "Il nero abbandona" possono essere usate in caso di abbandono
+
+## Mia modifica
+Questa sezione è la mia modifica per il test di git
